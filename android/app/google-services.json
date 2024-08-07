@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255844232987",
+    "project_id": "codsoft-chatapp",
+    "storage_bucket": "codsoft-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255844232987:android:d8c57b35ebc5a05231edbe",
+        "android_client_info": {
+          "package_name": "com.chat_app_codsoftM.chat_app_codsoft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm2rvtSHP30rHF-_1pH00t4OXQKx3PmkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"codsoft-chatapp","appId":"1:255844232987:android:d8c57b35ebc5a05231edbe","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"codsoft-chatapp","configurations":{"android":"1:255844232987:android:d8c57b35ebc5a05231edbe","ios":"1:255844232987:ios:4ac0c95528d1c2ae31edbe"}}}}}}
